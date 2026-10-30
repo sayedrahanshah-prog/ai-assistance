@@ -1,0 +1,6 @@
+{
+  "name": "Aetheris: Autonomous 3D AI Virtual Human Agent",
+  "description": "Next-generation autonomous AI digital employee with a realistic 3D virtual human, computer-use automation, voice interaction, multi-agent orchestration, and security controls.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
